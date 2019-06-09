@@ -25,7 +25,7 @@ NB: List based on the 2012 edition of the book.
 * The 22 Immutable Laws of Marketing – Al Ries & Jack Trout
 * Getting Everything You Can Out of All You’ve Got – Jay Abraham
 
-## Marketing ##
+## Sales ##
 * The Psychology of Selling – Brian Tracy
 * Pitch Anything – Oren Klaff
 * The Ultimate Sales Machine – Chet Holmes
