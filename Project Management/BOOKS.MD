@@ -3,9 +3,9 @@
    </HEAD>
    <BODY>
      <H2>PROCUREMENT</H2>
-      <a href="https://www.amazon.fr/Tech-Contracts-Handbook-Agreements-Businesspeople/dp/1634251784">The Tech Contracts Handbook: Cloud Computing Agreements, Software Licenses, and Other IT Contracts for Lawyers and Businesspeople</a> 
+      <a href="https://www.amazon.fr/Tech-Contracts-Handbook-Agreements-Businesspeople/dp/1634251784">The Tech Contracts Handbook: Cloud Computing Agreements, Software Licenses, and Other IT Contracts for Lawyers and Businesspeople</a> by David W Tollen
       <UL>
-         <LI>By David W Tollen</LI>
+         <LI>Excellent introduction to IT contracts, typical contract structure and common clauses.</LI>
          <LI><a href="https://www.amazon.fr/Tech-Contracts-Handbook-Agreements-Businesspeople/dp/1634251784">My review on Amazon</a></LI>
       </UL>
   </BODY>
