@@ -7,6 +7,7 @@
       <UL>
          <LI>Excellent introduction to IT contracts, typical contract structure and common clauses.</LI>
          <LI><a href="https://www.amazon.fr/review/R2USGTO1C9KBRC/ref=cm_cr_srp_d_rdp_perm?ie=UTF8">My review on Amazon</a></LI>
+      </UL>
       <a href="https://www.amazon.fr/Procurement-Handbook-SMEs-David-Nickson/dp/178017019X/">IT Procurement Handbook for SMEs</a> by David Nickson
       <UL>
          <LI>Introduction to IT procurement and contract management.</LI>
