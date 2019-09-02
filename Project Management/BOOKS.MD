@@ -8,6 +8,12 @@
          <LI>Excellent introduction to IT contracts, typical contract structure and common clauses.</LI>
          <LI><a href="https://www.amazon.fr/review/R2USGTO1C9KBRC/ref=cm_cr_srp_d_rdp_perm?ie=UTF8">My review on Amazon</a></LI>
       </UL>
+      <H2>QUALITY MANAGEMENT</H2>
+      <a href="https://www.amazon.fr/Out-Crisis-W-Edwards-Deming/dp/0262541157/">Out of the Crisis</a> by W. Edwards Deming
+      <UL>
+         <LI>Introduction to statistical quality management.</LI>
+         <LI><a href="https://www.amazon.fr/review/R18LHN9RU8SSVG/ref=cm_cr_srp_d_rdp_perm?ie=UTF8">My review on Amazon</a></LI>
+      </UL>
   </BODY>
 <HTML>
 
