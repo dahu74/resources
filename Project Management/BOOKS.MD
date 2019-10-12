@@ -12,6 +12,9 @@
       <UL>
          <LI>Introduction to IT procurement and contract management.</LI>
       </UL>
+      <a href="https://www.amazon.fr/Procurement-Principles-Management-Peter-Baily/dp/1292016019/">Procurement, Principles & Management</a> by Peter Bailly
+      <UL>
+      </UL>
       <BR/>
       <H2>QUALITY MANAGEMENT</H2>
       <a href="https://www.amazon.fr/Out-Crisis-W-Edwards-Deming/dp/0262541157/">Out of the Crisis</a> by W. Edwards Deming
