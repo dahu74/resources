@@ -14,6 +14,7 @@
       </UL>
       <a href="https://www.amazon.fr/Procurement-Principles-Management-Peter-Baily/dp/1292016019/">Procurement, Principles & Management</a> by Peter Bailly
       <UL>
+         <LI><a href="https://www.amazon.fr/review/R2IPVDH1EHG43N/ref=cm_cr_srp_d_rdp_perm?ie=UTF8">My review on Amazon</a></LI>
       </UL>
       <BR/>
       <H2>QUALITY MANAGEMENT</H2>
