@@ -13,6 +13,7 @@
       </UL>
       <a href="https://www.amazon.fr/dp/0062292986/ref=cm_sw_em_r_mt_dp_U_PCFODbHEN4FGD">Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers</a> by Geoffrey A. Moore
       <UL>
+         <LI><a href="https://www.amazon.fr/review/RDVVG3U2DXMMK/ref=cm_cr_srp_d_rdp_perm?ie=UTF8">My review on Amazon</a>
       </UL>
   </BODY>
 <HTML>
